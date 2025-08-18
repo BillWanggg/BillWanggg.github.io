@@ -14,6 +14,7 @@ Using administrative data on flood insurance, I document pervasive heterogeneity
 <sub>*Presented: LBS, NYU Student Lunch, SED, EEA Congress 2025, Bank of England, DNB, IIES, Bocconi, LSE Finance, CREI, IFS, Imperial, Warwick*</sub>
 
 [Non-essential Business Cycles](http://nrickard.github.io/files/AndreolliRickardSurico_NEBC.pdf), with Michele Andreolli and Paolo Surico
+
 R&R, Review of Economic Studies
 
 This paper documents three main regularities on post-WWII data for the United States: (i) spending on non-essentials is more sensitive to the business-cycle than spending on essentials; (ii) earnings in non-essential sectors are more cyclical than earnings in essential sectors; (iii) non-essential industries employ a larger share of hand-to-mouth workers. We develop and estimate a two-sector New-Keynesian model with non-homothetic preferences, hand-to-mouth workers and sectoral labour force heterogeneity that is consistent with these findings. We use the model to revisit the transmission of stabilisation policies. A main finding is that the interaction of cyclical product demand composition and cyclical labour demand composition greatly amplifies the effects of monetary policy, which in our economy can be equivalently implemented by a mix of consumption and labour taxes. However, a VAT change applied only to non-essentials (only to essentials) has a far larger (smaller) impact than a uniform VAT change of the same size.
