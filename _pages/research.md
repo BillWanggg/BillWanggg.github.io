@@ -39,6 +39,8 @@ This paper develops a novel framework for business-cycle analysis in the Euro-ar
 
 \* = Presentations by co-authors
 
+The views here expressed are my own and do not represent those of the Bank of England.
+
 
 
 {% if author.googlescholar %}
