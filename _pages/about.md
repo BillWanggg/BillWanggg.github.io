@@ -33,3 +33,5 @@ I am a research economist at the Bank of England, and received a PhD in Economic
   <sub>*Prepared for the ECB Forum on Central Banking, Sintra*</sub>
 
 <sub>*\* = Presentations by co-authors</sub>
+
+The views here expressed are my own and do not represent those of the Bank of England.
