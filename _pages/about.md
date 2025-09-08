@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I received a PhD in Economics from London Business School in July 2025, and will be joining the Bank of England as a Research Economist in Autumn 2025. My research explores the implications of climate change and business cycles for different households and firms.
+I am a research economist at the Bank of England, and received a PhD in Economics from London Business School in summer 2025. My research explores the implications of climate change and business cycles for different households and firms.
 
 [CV](http://nrickard.github.io/files/NatalieRickard_CV.pdf)
 
