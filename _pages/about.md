@@ -12,9 +12,9 @@ redirect_from:
 
 I am a Ph.D. candidate at the Paula and Gregory Chow Institute for Studies in Economics, Xiamen University, China, and expect to graduate in Winter 2026. My research focuses on the interactions between fiscal and monetary policies and their implications for macroeconomic stability. I am also interested in the role of fiscal policy in fostering long-run economic growth.
 
-[CV](http://nrickard.github.io/files/NatalieRickard_CV.pdf)
+[//]: [CV](http://nrickard.github.io/files/NatalieRickard_CV.pdf)
 
-### Working Papers
+### Published Papers
 
 - **[Sheltering from Climate Risks](http://nrickard.github.io/files/NatalieRickard_JMP.pdf)**  
   <sub>*Presented: LBS, NYU Student Lunch, SED, EEA Congress 2025, Bank of England, DNB, IIES, Bocconi, LSE Finance, CREI, IFS, Imperial, Warwick*</sub>
@@ -32,6 +32,6 @@ I am a Ph.D. candidate at the Paula and Gregory Chow Institute for Studies in Ec
   <sub>*Media coverage: [Reuters](https://www.reuters.com/world/europe/ecb-should-change-inflation-target-researchers-tell-policymakers-2025-06-27/), [Expresso](https://expresso.pt/economia/ecomercados/2025-07-07-e-se-o-bce-estiver-a-agravar-pobreza--economista-acusa-a-instituicao-de-usar-a-inflacao-de-forma-errada-ba2514d4), [Central Banking](https://www.centralbanking.com/central-banks/monetary-policy/operating-framework/7973197/abandoning-hicp-targeting-would-help-the-poorest-%E2%80%93-paper), [Coindoo](https://coindoo.com/new-ecb-research-calls-for-rethinking-inflation-target-to-protect-the-poor/), [Eco](https://eco.sapo.pt/2025/06/30/forum-do-bce-em-sintra-questiona-estrategias-da-politica-monetaria/), [AIInvest](https://www.ainvest.com/news/ecb-discretionary-inflation-shift-era-income-inequality-consumer-spending-2506/)*</sub>  
   <sub>*Prepared for the ECB Forum on Central Banking, Sintra*</sub>
 
-<sub>*\* = Presentations by co-authors</sub>
+### Working Papers
 
-The views here expressed are my own and do not represent those of the Bank of England.
+<sub>*\* = Presentations by co-authors</sub>
