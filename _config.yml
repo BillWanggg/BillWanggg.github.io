@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Natalie Rickard"
+title                    : "Junfeng Wang"
 title_separator          : "-"
-name                     : &name "Natalie Rickard"
+name                     : &name "Junfeng Wang"
 description              : &description "personal description"
-url                      : https://nrickard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://billwanggg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nrickard/nrickard.github.io"
+repository               : "BillWanggg/BillWanggg.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,13 @@ google_analytics: G-JXZ1DG79QW
 # Site Author
 author:
   name             : ""
-  avatar           : "profile_NR.jpg"
+  avatar           : " "
   bio              : ""
-  location         : "London"
+  location         : "Xiamen,Fujian,China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=rSW8LmoAAAAJ&hl=en&oi=ao"
-  email            :  natalie.rickard@bankofengland.co.uk
+  googlescholar    : #"https://scholar.google.com/citations?user=rSW8LmoAAAAJ&hl=en&oi=ao"
+  email            :  wangjf3412@163.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nrickard"
+  github           : "billwanggg"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0009-0008-7114-0592"
+  orcid            : # "https://orcid.org/0009-0008-7114-0592"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
