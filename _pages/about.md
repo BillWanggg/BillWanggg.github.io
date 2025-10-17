@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a research economist at the Bank of England, and received a PhD in Economics from London Business School in summer 2025. My research explores the implications of climate change and business cycles for different households and firms.
+I am a Ph.D. candidate at the Paula and Gregory Chow Institute for Studies in Economics, Xiamen University, China, and expect to graduate in Winter 2026. My research focuses on the interactions between fiscal and monetary policies and their implications for macroeconomic stability. I am also interested in the role of fiscal policy in fostering long-run economic growth.
 
 [CV](http://nrickard.github.io/files/NatalieRickard_CV.pdf)
 
