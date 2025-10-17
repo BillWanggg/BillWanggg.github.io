@@ -1,4 +1,4 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Natalie Rickard](https://github.com/nrickard) who forks from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+A Github Pages template for academic websites. This was forked (then detached) by [Natalie Rickard](https://github.com/nrickard) who forks the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I appreciate it so much for their contributions on providing a baseline for personal academic websites and fixing lots of bugs. Besides, I also welcome pulling requests if you want to further improve the generic template / theme.
 
