@@ -16,13 +16,13 @@ I am a Ph.D. candidate at the Paula and Gregory Chow Institute for Studies in Ec
 
 ### Published Papers
 
-- **[The effects of a money-financed fiscal stimulus under fiscal stress](http://billwanggg.github.io/files/MFFS under fiscal stress)*** with Hao Jin — *Journal of Macroeconomics*
+- **[The effects of a money-financed fiscal stimulus under fiscal stress](http://billwanggg.github.io/files/MFFS under fiscal stress.pdf)*** with Hao Jin — *Journal of Macroeconomics*
 
   <sub>**Corresponding Author*</sub>
 
 ### Working Papers
 
-- **[Monetary-fiscal policy interactions with debt maturities and primary market frictions](http://billwanggg.github.io/files/Debt Maturity and Primary Frictions)** with Jianpo Xue
+- **[Monetary-fiscal policy interactions with debt maturities and primary market frictions](http://billwanggg.github.io/files/Debt Maturity and Primary Frictions.pdf)** 
   
 
 <sub>*\* = Corresponding author</sub>
