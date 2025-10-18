@@ -22,7 +22,7 @@ I am a Ph.D. candidate at the Paula and Gregory Chow Institute for Studies in Ec
 
 ### Working Papers
 
-- **[Monetary-fiscal policy interactions with debt maturities and primary market frictions](http://billwanggg.github.io/files/Debt Maturity and Primary Frictions) ** with Jianpo Xue
+- **[Monetary-fiscal policy interactions with debt maturities and primary market frictions](http://billwanggg.github.io/files/Debt Maturity and Primary Frictions)** with Jianpo Xue
   
 
 <sub>*\* = Corresponding author</sub>
